@@ -1,0 +1,75 @@
+* Cocos2D-X
+
+** TODO [#A] TensorFlow 安装与使用
+   SCHEDULED: <2016-10-13 四 19:00.+1d>
+   :PROPERTIES:
+   :Effort:   60
+   :END:
+
+  [2016-10-12 三 00:08]
+
+** TODO [#A] 混沌理论与程序准备
+   SCHEDULED: <2016-10-13 四 13:00.+1d>
+   :PROPERTIES:
+   :Effort:   90
+   :END:
+
+  [2016-10-12 三 00:12]
+
+** TODO [#A] Daily Review
+   SCHEDULED: <2016-10-13 四 22:00.+1d>
+   :PROPERTIES:
+   :Effort:   30
+   :END:
+
+  [2016-10-12 三 00:15]
+
+** TODO [#A] Daily Start
+   SCHEDULED: <2016-10-13 四 9:00.+1d>
+   :PROPERTIES:
+   :Effort:   30
+   :END:
+
+1. Review yesterday
+2. Check TODO items today
+
+  [2016-10-12 三 00:19]
+
+** TODO [#A] Weekly Review
+   SCHEDULED: <2016-10-16 日 8:30.+1w>
+   :PROPERTIES:
+   :Effort:   60
+   :END:
+
+  [2016-10-12 三 00:21]
+
+* Workspace
+
+** STARTED [#B] 工作组织与整理
+   :LOGBOOK:
+   CLOCK: [2016-10-12 三 00:10]
+   :END:
+
+** TODO [#B] 掘金平台的使用
+
+** TODO [#B] 期货从业资格考试准备
+   SCHEDULED: <2016-10-13 四 10:30.+1d>
+
+** TODO [#B] Spacemacs Rocks Learning
+   SCHEDULED: <2016-10-13 四 14:30.+1d>
+
+** TODO [#B] Machine Learning
+
+** TODO [#B] 关于GTD的二三事
+
+** TODO [#B] Numpy 与 Scipy 等常用科学计算库学习
+   SCHEDULED: <2016-10-13 四 09:30>
+   :PROPERTIES:
+   :Effort:   60
+   :END:
+
+* Finance
+
+**
+
+**
